@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="NewProb/ProbLink.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewProb/Program.cs">
+    <Files>
+      <File FileName="NewProb/Program.cs" Line="21" Column="21" />
+      <File FileName="NewProb/MatchProb.cs" Line="7" Column="7" />
+      <File FileName="NewProb/Blocks.cs" Line="122" Column="122" />
+      <File FileName="NewProb/DataObjects.cs" Line="40" Column="40" />
+      <File FileName="NewProb/DataObjectMethods.cs" Line="72" Column="72" />
+      <File FileName="NewProb/TestData.cs" Line="32" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
